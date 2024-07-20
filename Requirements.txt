@@ -10,3 +10,4 @@ firebase_admin
 datetime
 os
 pickle
+customtkinter
