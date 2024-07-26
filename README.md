@@ -73,10 +73,5 @@ python attendify.py
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
----
-
 Feel free to customize the content further as per your project's specifics and preferences.
 
----
-
-{{README Generator, Author Shashank Atthal}}
