@@ -1,13 +1,10 @@
 numpy
 opencv-python
 cmake
-cv2
 dlib
 face-recognition
 cvzone
 setuptools
 firebase_admin
 datetime
-os
-pickle
 customtkinter

@@ -22,7 +22,7 @@ cam = cv2.VideoCapture(0)
 cam.set(3,640)
 cam.set(4,480)
 
-imgback = cv2.imread('Resources/background.png')
+imgback = cv2.imread('Resources/test.png')
 
 #importing modes images into lists
 modepath = 'Resources/modes'
