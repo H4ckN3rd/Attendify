@@ -1,6 +1,10 @@
+<div align="center">
+
 # Attendify 📸
 
 Attendify is a Facial Recognition Attendance System built using Python, OpenCV (cv2), face_recognition, and Firebase for real-time database integration. This application allows the registration of students with their photos, encodes the facial features, and marks attendance by recognizing the student's face in real-time.
+
+</div>
 
 ## Features ✨
 
@@ -54,11 +58,18 @@ cd attendify
 ```bash
 python attendify.py
 ```
+<div align="center">
+    <img src="https://github.com/jatink2004/Attendify/blob/3d4167f073d6ce2c86e5312ac04912b3af1a26fe/images_for_readme/1.png?raw=true" alt="Attendify GUI">
+</div>
 
 2. Use the GUI to:
    - Add new student data and photos.
    - Run the encoding process by clicking "Run Encoding".
    - Launch the real-time attendance system by clicking "Launch Attendify".
+
+<div align="center">
+    <img src="https://github.com/jatink2004/Attendify/blob/3d4167f073d6ce2c86e5312ac04912b3af1a26fe/images_for_readme/2.png?raw=true" alt="Attendify GUI 2">
+</div>
 
 ## Project Structure 📂
 
