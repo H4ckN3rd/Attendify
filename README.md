@@ -38,7 +38,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/jatink2004/Attendify.git
+git clone https://github.com/H4ckN3rd/Attendify.git
 cd attendify
 ```
 
@@ -59,7 +59,7 @@ cd attendify
 python attendify.py
 ```
 <div align="center">
-    <img src="https://github.com/jatink2004/Attendify/blob/3d4167f073d6ce2c86e5312ac04912b3af1a26fe/images_for_readme/1.png?raw=true" alt="Attendify GUI">
+    <img src="https://github.com/H4ckN3rd/Attendify/blob/3d4167f073d6ce2c86e5312ac04912b3af1a26fe/images_for_readme/1.png?raw=true" alt="Attendify GUI">
 </div>
 
 2. Use the GUI to:
@@ -68,7 +68,7 @@ python attendify.py
    - Launch the real-time attendance system by clicking "Launch Attendify".
 
 <div align="center">
-    <img src="https://github.com/jatink2004/Attendify/blob/3d4167f073d6ce2c86e5312ac04912b3af1a26fe/images_for_readme/2.png?raw=true" alt="Attendify GUI 2">
+    <img src="https://github.com/H4ckN3rd/Attendify/blob/3d4167f073d6ce2c86e5312ac04912b3af1a26fe/images_for_readme/2.png?raw=true" alt="Attendify GUI 2">
 </div>
 
 ## Project Structure 📂
